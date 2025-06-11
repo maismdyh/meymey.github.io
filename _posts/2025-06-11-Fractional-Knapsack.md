@@ -1,7 +1,3 @@
-Berikut adalah rangkuman tentang **Fractional Knapsack** dalam bentuk ringkas dan menggunakan tabel untuk memperjelas:
-
----
-
 ## Rangkuman Fractional Knapsack
 
 **Fractional Knapsack** adalah versi dari masalah knapsack di mana item dapat diambil sebagian (tidak harus utuh). Tujuannya adalah memaksimalkan total nilai (value) yang bisa dimasukkan ke dalam knapsack dengan kapasitas terbatas. Masalah ini diselesaikan dengan pendekatan greedy, bukan dynamic programming seperti pada 0/1 Knapsack.
